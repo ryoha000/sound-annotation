@@ -1,7 +1,3 @@
-# Tauri + Solid + Typescript
+# A Tool for Sound Annotation
 
-This template should help get you started developing with Tauri, Solid and Typescript in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+![image](https://github.com/ryoha000/sound-annotation/assets/48485650/0f757b51-faf9-4757-bd1c-208f8d03067a)
