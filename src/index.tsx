@@ -1,4 +1,7 @@
 /* @refresh reload */
+import "virtual:uno.css";
+import "@unocss/reset/tailwind-compat.css";
+import "toastify-js/src/toastify.css";
 import { render } from "solid-js/web";
 
 import "./styles.css";
